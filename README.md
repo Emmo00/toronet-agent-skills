@@ -24,10 +24,7 @@ npx skills add emmo00/toronet-agent-skills
 Or install a specific skill from this repository (syntax varies by installer):
 
 ```bash
-npx skills add emmo00/toronet-agent-skills --skill toronet-smart-contract-development
 npx skills add emmo00/toronet-agent-skills --skill toronet-smart-contract-deployment
-npx skills add emmo00/toronet-agent-skills --skill toronet-app-integrations
-npx skills add emmo00/toronet-agent-skills --skill toronet-sdk
 ```
 
 
